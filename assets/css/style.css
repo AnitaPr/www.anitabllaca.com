@@ -705,7 +705,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# My Services
+# My Skills
 --------------------------------------------------------------*/
 .services .icon-box {
   padding: 30px;
@@ -766,7 +766,7 @@ section {
 .testimonials {
   padding: 80px 0;
   background: url("../img/pexels-hristo-fidanov-1252890.jpg") no-repeat;
-  background-position: center center;
+  background-position: center;
   background-size: cover;
   position: relative;
 }
@@ -782,7 +782,7 @@ section {
 }
 
 .testimonials .section-header {
-  margin-bottom: 40px;
+  margin-bottom: 20px;
 }
 
 .testimonials .testimonials-carousel,
@@ -797,7 +797,7 @@ section {
 
 .testimonials .testimonial-item .testimonial-img {
   width: 100px;
-  border-radius: 50%;
+  border-radius: 40%;
   border: 6px solid rgba(255, 255, 255, 0.15);
   margin: 0 auto;
 }
@@ -810,7 +810,7 @@ section {
 }
 
 .testimonials .testimonial-item h4 {
-  font-size: 14px;
+  font-size: 18px;
   color: #ddd;
   margin: 0 0 15px 0;
 }
@@ -818,7 +818,7 @@ section {
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
   color: rgba(255, 255, 255, 0.4);
-  font-size: 26px;
+  font-size: 30px;
 }
 
 .testimonials .testimonial-item .quote-icon-left {
