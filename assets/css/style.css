@@ -43,7 +43,7 @@ h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #ffb727;
+  background:  #669999;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -57,7 +57,7 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #ffc550;
+  background: #669999;
   color: #fff;
 }
 
@@ -1021,7 +1021,7 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Pricing
+# My Skills
 --------------------------------------------------------------*/
 .pricing .box {
   padding: 20px;
@@ -1308,6 +1308,7 @@ section {
 
 #footer .container {
   position: relative;
+  color:  #669999;
 }
 
 #footer h3 {
